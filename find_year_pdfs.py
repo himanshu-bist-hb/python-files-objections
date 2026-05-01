@@ -9,7 +9,7 @@ except ImportError:
     pd = None
 
 
-SUBMISSION_FOLDER_NAMES = {"forsubmission", "forsubbmision"}
+SUBMISSION_FOLDER_NAMES = {"For Submission"}
 
 
 def normalize_folder_name(folder_name):
